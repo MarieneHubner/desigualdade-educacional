@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ 
+body {
+/* background-image: url(https://cursinhoparamedicina.com.br/wp-content/uploads/2022/10/Paisagem-1.jpg);
+background-repeat:repeat-y;
+/* background-position: 90%  50%; */
+/* background-size: cover;
+background-attachment: fixed; */ 
+
+/* background-image: linear-gradient(45deg, green, purple); */
+
+/* background-image: repeating-radial-gradient(pink, green); */
+background-color: rgb(196, 217, 216);
+
+margin-left: 10%;
+margin-right: 10%;
+}
+header{
+text-align: center;
+margin-bottom: 5%;
+
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+margin-bottom: 1%;
+margin-top: 1%;
+text-indent: 1%;
+text-align: justify;
+}
+
+img{
+    margin-left: 200px;
+    border-radius: 1CM;
+}
